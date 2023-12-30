@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Subhrajyoti Singha Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **React Native,React Js,Javascript,C++**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native,Swift,Python**
 
-- 👯 I’m looking to collaborate on **React Native**
+- 👯 I’m looking to collaborate on **React Native,RecatJs,PHP,HTML**
 
-- 🤝 I’m looking for help with **React Native**
+- 🤝 I’m looking for help with **React Native,RecatJs,HTML,Javascript**
 
 - 💬 Ask me about **React Native**
 
