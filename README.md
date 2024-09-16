@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhrajyoti Singha Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **React Native,React Js,Javascript,C++**
+- 🔭 I’m currently working on **React Native,React Js,Javascript,C++,NodeJs,MongoDB**
 
 - 🌱 I’m currently learning **React Native,Swift,Python**
 
